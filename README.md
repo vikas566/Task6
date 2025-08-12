@@ -16,14 +16,9 @@ This is a simple contact form with **HTML**, **CSS**, and **JavaScript**.
 - `style.css` - Styles for layout, colors, animations.
 - `script.js` - Validation logic.
 
-## How to Use
-1. Download and extract the ZIP file.
-2. Open `index.html` in your browser.
-3. Fill in the form fields and test validation.
 
 ## Notes
 - This form does not actually send data to a server.
 - To connect to a backend, you need to add a form action and server-side processing.
 
 ---
-Created by ChatGPT
